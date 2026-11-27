@@ -7,7 +7,7 @@
 [![React 18](https://img.shields.io/badge/React-18.3-61dafb.svg)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com/)
 
-**OrgFlow Studio** 是一个 100% 原创构建的开源组织级协同工作台与低代码业务引擎，融合了**多租户空间隔离**、**JSON Schema 动态表单与安全 AST 公式引擎**、**可编排多级审批/会签状态机**以及**关联流程的协同知识卡片库**。
+**OrgFlow Studio** 是一个面向组织协同与低代码业务编排的开源工作台，融合了**多租户空间隔离**、**JSON Schema 动态表单与安全 AST 公式引擎**、**可编排多级审批/会签状态机**以及**关联流程的协同知识卡片库**。
 
 前端支持**双模网关无缝切换**：既可直连本地 `FastAPI + SQLite` 后端服务实现持久化与版本审计，也可在**零后端配置**下通过内置浏览器 `LocalStorage` 离线演示网关完整体验全部核心能力。
 
